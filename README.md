@@ -18,7 +18,7 @@ An interactive and visually stunning portfolio website built with Three.js, Reac
 - **Build Tool:** Vite
 
 ## 📸 Screenshots
-![Portfolio Screenshot](path/to/screenshot.png)
+![Portfolio Screenshot](https://github.com/Adnan-hamid-wani/Portfolio-Animated/blob/main/src/image.png)
 
 ## 🚧 Installation and Setup
 
