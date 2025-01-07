@@ -45,7 +45,6 @@ const Spaceship: React.FC = () => {
         position: 'absolute',
         top: '30',        // Position from top to center
         left: '0',       // Position from left to center
-        transform: 'translate(-50%, -50%)',  // Adjust for perfect centering
         ...positionStyle,  
         overflow: 'hidden', 
         zIndex: -1,      
