@@ -57,8 +57,7 @@ yarn preview
 src/
 │
 ├── components/       # Reusable UI components
-├── assets/           # 3D models, images, and videos
-├── pages/            # Page components
+├── assets/           # 3D models, images, and videos           
 ├── styles/           # Global and component-specific styles
 └── main.tsx          # Entry point
 ```
@@ -70,10 +69,7 @@ src/
 4. Push to your branch.
 5. Submit a pull request.
 
-## 📜 License
-This project is licensed under the MIT License.
-
----
+## BTW i am unemolyed. need a job badly.
 
 ### 🌟 Acknowledgments
 - Inspired by modern portfolio designs.
